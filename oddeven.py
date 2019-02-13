@@ -1,5 +1,5 @@
-a=int(input())
-mod=a%2
+n=int(input())
+mod=n%2
 if mod>0:
 	print("odd")
 else:
